@@ -91,3 +91,20 @@ Example Response:
   "price": 15.99
 }
 ```
+
+# Plantsy - Plant Shop App
+A React single-page application for managing an online plant shop inventory.
+
+## Features
+- **View Inventory:** Fetches and displays all plantson startup
+- **Add New Plants:** Submits new plants to the JSON backend and updates the UI immediately
+- **Search Filter:** Filters displayed plants dynamically as you type.
+- **Stock Toggle:** Marks individual 
+
+## Screenshot
+![Plantsy App Screenshot](./public/images/screenshot.png)
+
+## Setup & Installation
+1. Clone the repository and run `npm install`.
+2. Start the backend server: `npm run server`.
+3. Start the frontend development server: `npm run dev`.
